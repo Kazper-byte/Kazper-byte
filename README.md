@@ -1,6 +1,6 @@
 #👨🏻‍💻 Matheus Kasper
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus Kasper, tenho 19 anos e sou nascido em Curitba Concluí o ensino médio em 2024, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Porem não irei parar por ai ,Pretendo Futuramente Cursa Engenharia de Software e me aperfeiçoar cada vez mais na área
 
